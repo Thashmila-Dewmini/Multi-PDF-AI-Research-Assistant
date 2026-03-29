@@ -64,7 +64,7 @@ Local URL: http://localhost:8501
 * Hugging Face Transformers
 
 ## 📷 Demo
-![Demo](img\img1.png) 
+![Demo](img/img1.png) 
 
 
 
